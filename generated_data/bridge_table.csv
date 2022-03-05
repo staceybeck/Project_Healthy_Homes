@@ -1,0 +1,610 @@
+fips,cases,county,date,state,pop,omb13cbsa,metro_area,county_bridge,smsa
+01001,74,Autauga,2020-05-10,Alabama,55869,33860,"Montgomery, AL",Autauga County ,5240
+01007,46,Bibb,2020-05-10,Alabama,22394,13820,"Birmingham-Hoover, AL",Bibb County ,
+01009,44,Blount,2020-05-10,Alabama,57826,13820,"Birmingham-Hoover, AL", Blount County ,
+01021,65,Chilton,2020-05-10,Alabama,44428,13820,"Birmingham-Hoover, AL", Chilton County ,
+01051,150,Elmore,2020-05-10,Alabama,81209,33860,"Montgomery, AL", Elmore County ,5240
+01073,1121,Jefferson,2020-05-10,Alabama,658573,13820,"Birmingham-Hoover, AL", Jefferson County ,
+01085,99,Lowndes,2020-05-10,Alabama,9726,33860,"Montgomery, AL", Lowndes County ,5240
+01097,1461,Mobile,2020-05-10,Alabama,413210,33660,"Mobile, AL",Mobile County ,5160
+01101,608,Montgomery,2020-05-10,Alabama,226486,33860,"Montgomery, AL", Montgomery County ,5240
+01115,82,St. Clair,2020-05-10,Alabama,89512,13820,"Birmingham-Hoover, AL", St. Clair County ,
+01117,367,Shelby,2020-05-10,Alabama,217702,13820,"Birmingham-Hoover, AL", Shelby County ,
+01127,106,Walker,2020-05-10,Alabama,63521,13820,"Birmingham-Hoover, AL", Walker County ,
+04013,5827,Maricopa,2020-05-10,Arizona,4485414,38060,"Phoenix-Mesa-Glendale, AZ",Maricopa County ,
+04019,1585,Pima,2020-05-10,Arizona,1047279,46060,"Tucson, AZ",Pima County ,8520
+04021,600,Pinal,2020-05-10,Arizona,462789,38060,"Phoenix-Mesa-Glendale, AZ", Pinal County ,
+05035,210,Crittenden,2020-05-10,Arkansas,47955,32820,"Memphis, TN-MS-AR",Crittenden County ,
+05045,82,Faulkner,2020-05-10,Arkansas,126007,30780,"Little Rock-North Little Rock-Conway, AR",Faulkner County ,4400
+05053,15,Grant,2020-05-10,Arkansas,18265,30780,"Little Rock-North Little Rock-Conway, AR", Grant County ,4400
+05085,45,Lonoke,2020-05-10,Arkansas,73309,30780,"Little Rock-North Little Rock-Conway, AR", Lonoke County ,4400
+05105,8,Perry,2020-05-10,Arkansas,10455,30780,"Little Rock-North Little Rock-Conway, AR", Perry County ,4400
+05119,627,Pulaski,2020-05-10,Arkansas,391911,30780,"Little Rock-North Little Rock-Conway, AR", Pulaski County ,4400
+05125,73,Saline,2020-05-10,Arkansas,122437,30780,"Little Rock-North Little Rock-Conway, AR", Saline County ,4400
+06001,2085,Alameda,2020-05-10,California,1671329,41860,"San Francisco-Oakland-Fremont, CA",Alameda County ,
+06013,1048,Contra Costa,2020-05-10,California,1153526,41860,"San Francisco-Oakland-Fremont, CA", Contra Costa County ,
+06017,54,El Dorado,2020-05-10,California,192843,40900,"Sacramento--Arden-Arcade--Roseville, CA",El Dorado County ,6920
+06019,885,Fresno,2020-05-10,California,999101,23420,"Fresno, CA",Fresno County ,2840
+06029,1264,Kern,2020-05-10,California,900202,12540,"Bakersfield-Delano, CA",Kern County ,0680
+06037,31677,Los Angeles,2020-05-10,California,10039107,31080,"Los Angeles-Long Beach-Anaheim, CA",Los Angeles County ,
+06041,261,Marin,2020-05-10,California,258826,41860,"San Francisco-Oakland-Fremont, CA", Marin County ,
+06053,273,Monterey,2020-05-10,California,434061,41500,"Salinas, CA",Monterey County ,7120
+06055,79,Napa,2020-05-10,California,137744,34900,"Napa, CA",Napa County ,8720
+06059,3506,Orange,2020-05-10,California,3175692,31080,"Los Angeles-Long Beach-Anaheim, CA", Orange County ,
+06061,169,Placer,2020-05-10,California,398329,40900,"Sacramento--Arden-Arcade--Roseville, CA", Placer County ,6920
+06065,5039,Riverside,2020-05-10,California,2470546,40140,"Riverside-San Bernardino-Ontario, CA",Riverside County ,
+06067,1166,Sacramento,2020-05-10,California,1552058,40900,"Sacramento--Arden-Arcade--Roseville, CA", Sacramento County ,6920
+06069,55,San Benito,2020-05-10,California,62808,41940,"San Jose-Sunnyvale-Santa Clara, CA",San Benito County ,
+06071,2964,San Bernardino,2020-05-10,California,2180085,40140,"Riverside-San Bernardino-Ontario, CA", San Bernardino County ,
+06073,4989,San Diego,2020-05-10,California,3338330,41740,"San Diego-Carlsbad-San Marcos, CA",San Diego County ,7320
+06075,1946,San Francisco,2020-05-10,California,881549,41860,"San Francisco-Oakland-Fremont, CA", San Francisco County ,
+06077,612,San Joaquin,2020-05-10,California,762148,44700,"Stockton, CA",San Joaquin County ,8120
+06081,1453,San Mateo,2020-05-10,California,766573,41860,"San Francisco-Oakland-Fremont, CA", San Mateo County ,
+06083,1308,Santa Barbara,2020-05-10,California,446499,42060,"Santa Barbara-Santa Maria-Goleta, CA",Santa Barbara County ,7480
+06085,2339,Santa Clara,2020-05-10,California,1927852,41940,"San Jose-Sunnyvale-Santa Clara, CA", Santa Clara County ,
+06097,309,Sonoma,2020-05-10,California,494336,42220,"Santa Rosa-Petaluma, CA",Sonoma County ,7500
+06099,501,Stanislaus,2020-05-10,California,550660,33700,"Modesto, CA",Stanislaus County ,5170
+06111,679,Ventura,2020-05-10,California,846006,37100,"Oxnard-Thousand Oaks-Ventura, CA",Ventura County ,6000
+06113,173,Yolo,2020-05-10,California,220500,40900,"Sacramento--Arden-Arcade--Roseville, CA", Yolo County ,6920
+08001,2242,Adams,2020-05-10,Colorado,517421,19740,"Denver-Aurora-Broomfield, CO",Adams County ,
+08005,3272,Arapahoe,2020-05-10,Colorado,656590,19740,"Denver-Aurora-Broomfield, CO", Arapahoe County ,
+08014,198,Broomfield,2020-05-10,Colorado,70465,19740,"Denver-Aurora-Broomfield, CO", Broomfield County ,
+08019,14,Clear Creek,2020-05-10,Colorado,9700,19740,"Denver-Aurora-Broomfield, CO", Clear Creek County ,
+08031,4070,Denver,2020-05-10,Colorado,727211,19740,"Denver-Aurora-Broomfield, CO", Denver County ,
+08035,601,Douglas,2020-05-10,Colorado,351154,19740,"Denver-Aurora-Broomfield, CO", Douglas County ,
+08039,39,Elbert,2020-05-10,Colorado,26729,19740,"Denver-Aurora-Broomfield, CO", Elbert County ,
+08041,1124,El Paso,2020-05-10,Colorado,720403,17820,"Colorado Springs, CO",El Paso County ,1720
+08047,3,Gilpin,2020-05-10,Colorado,6243,19740,"Denver-Aurora-Broomfield, CO", Gilpin County ,
+08059,1649,Jefferson,2020-05-10,Colorado,582881,19740,"Denver-Aurora-Broomfield, CO", Jefferson County ,
+08093,15,Park,2020-05-10,Colorado,18845,19740,"Denver-Aurora-Broomfield, CO", Park County ,
+08119,31,Teller,2020-05-10,Colorado,25388,17820,"Colorado Springs, CO", Teller County ,1720
+09001,13236,Fairfield,2020-05-10,Connecticut,943332,35300,"New Haven-Milford, CT", Fairfield County ,5480
+09003,7263,Hartford,2020-05-10,Connecticut,891720,25540,"Hartford-West Hartford-East Hartford, CT",Hartford County ,3280
+09005,1153,Litchfield,2020-05-10,Connecticut,180333,25540,"Hartford-West Hartford-East Hartford, CT", Litchfield County ,3280
+09007,798,Middlesex,2020-05-10,Connecticut,162436,25540,"Hartford-West Hartford-East Hartford, CT", Middlesex County ,3280
+09009,9209,New Haven,2020-05-10,Connecticut,854757,35300,"New Haven-Milford, CT",New Haven County ,5480
+09013,543,Tolland,2020-05-10,Connecticut,150721,25540,"Hartford-West Hartford-East Hartford, CT", Tolland County ,3280
+10003,2331,New Castle,2020-05-10,Delaware,558753,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",New Castle County ,
+11001,6272,District of Columbia,2020-05-10,District of Columbia,705749,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District of Columbia ,
+12009,328,Brevard,2020-05-10,Florida,601942,37340,"Palm Bay-Melbourne-Titusville, FL",Brevard County ,4900
+12011,5858,Broward,2020-05-10,Florida,1952778,33100,"Miami-Fort Lauderdale-Pompano Beach, FL",Broward County ,
+12019,300,Clay,2020-05-10,Florida,219252,27260,"Jacksonville, FL",Clay County ,3600
+12031,1164,Duval,2020-05-10,Florida,957755,27260,"Jacksonville, FL", Duval County ,3600
+12033,638,Escambia,2020-05-10,Florida,318316,37860,"Pensacola-Ferry Pass-Brent, FL",Escambia County ,6080
+12053,100,Hernando,2020-05-10,Florida,193920,45300,"Tampa-St. Petersburg-Clearwater, FL",Hernando County ,
+12057,1432,Hillsborough,2020-05-10,Florida,1471968,45300,"Tampa-St. Petersburg-Clearwater, FL", Hillsborough County ,
+12069,242,Lake,2020-05-10,Florida,367118,36740,"Orlando, FL",Lake County ,5960
+12071,1267,Lee,2020-05-10,Florida,770577,15980,"Cape Coral-Fort Myers, FL",Lee County ,2700
+12086,14006,Miami-Dade,2020-05-10,Florida,2716940,33100,"Miami-Fort Lauderdale-Pompano Beach, FL", Miami-Dade County ,
+12089,60,Nassau,2020-05-10,Florida,88625,27260,"Jacksonville, FL", Nassau County ,3600
+12095,1504,Orange,2020-05-10,Florida,1393452,36740,"Orlando, FL",  Orange County ,5960
+12097,572,Osceola,2020-05-10,Florida,375751,36740,"Orlando, FL", Osceola County ,5960
+12099,3868,Palm Beach,2020-05-10,Florida,1496770,33100,"Miami-Fort Lauderdale-Pompano Beach, FL", Palm Beach County ,
+12101,297,Pasco,2020-05-10,Florida,553947,45300,"Tampa-St. Petersburg-Clearwater, FL", Pasco County ,
+12103,861,Pinellas,2020-05-10,Florida,974996,45300,"Tampa-St. Petersburg-Clearwater, FL", Pinellas County ,
+12105,636,Polk,2020-05-10,Florida,724777,29460,"Lakeland-Winter Haven, FL",Polk County ,3980
+12109,222,St. Johns,2020-05-10,Florida,264672,27260,"Jacksonville, FL", St. Johns County ,3600
+12113,173,Santa Rosa,2020-05-10,Florida,184313,37860,"Pensacola-Ferry Pass-Brent, FL", Santa Rosa County ,6080
+12117,415,Seminole,2020-05-10,Florida,471826,36740,"Orlando, FL", Seminole County ,5960
+12127,548,Volusia,2020-05-10,Florida,553284,19660,"Deltona-Daytona Beach-Ormond Beach, FL",Volusia County ,2020
+13013,193,Barrow,2020-05-10,Georgia,83240,12060,"Atlanta-Sandy Springs-Marietta, GA",Barrow County ,
+13015,363,Bartow,2020-05-10,Georgia,107738,12060,"Atlanta-Sandy Springs-Marietta, GA", Bartow County ,
+13033,107,Burke,2020-05-10,Georgia,22383,12260,"Augusta-Richmond County, GA-SC",Burke County ,0600
+13035,180,Butts,2020-05-10,Georgia,24936,12060,"Atlanta-Sandy Springs-Marietta, GA", Butts County ,
+13045,395,Carroll,2020-05-10,Georgia,119992,12060,"Atlanta-Sandy Springs-Marietta, GA", Carroll County ,
+13047,53,Catoosa,2020-05-10,Georgia,67580,16860,"Chattanooga, TN-GA",Catoosa County ,1560
+13057,609,Cherokee,2020-05-10,Georgia,258773,12060,"Atlanta-Sandy Springs-Marietta, GA", Cherokee County ,
+13063,921,Clayton,2020-05-10,Georgia,292256,12060,"Atlanta-Sandy Springs-Marietta, GA", Clayton County ,
+13067,2175,Cobb,2020-05-10,Georgia,760141,12060,"Atlanta-Sandy Springs-Marietta, GA", Cobb County ,
+13073,183,Columbia,2020-05-10,Georgia,156714,12260,"Augusta-Richmond County, GA-SC", Columbia County ,0600
+13077,276,Coweta,2020-05-10,Georgia,148509,12060,"Atlanta-Sandy Springs-Marietta, GA", Coweta County ,
+13083,17,Dade,2020-05-10,Georgia,16116,16860,"Chattanooga, TN-GA", Dade County ,1560
+13085,81,Dawson,2020-05-10,Georgia,26108,12060,"Atlanta-Sandy Springs-Marietta, GA", Dawson County ,
+13089,2536,DeKalb,2020-05-10,Georgia,759297,12060,"Atlanta-Sandy Springs-Marietta, GA", DeKalb County ,
+13097,414,Douglas,2020-05-10,Georgia,146343,12060,"Atlanta-Sandy Springs-Marietta, GA", Douglas County ,
+13113,199,Fayette,2020-05-10,Georgia,114421,12060,"Atlanta-Sandy Springs-Marietta, GA", Fayette County ,
+13117,388,Forsyth,2020-05-10,Georgia,244252,12060,"Atlanta-Sandy Springs-Marietta, GA", Forsyth County ,
+13121,3509,Fulton,2020-05-10,Georgia,1063937,12060,"Atlanta-Sandy Springs-Marietta, GA", Fulton County ,
+13135,2447,Gwinnett,2020-05-10,Georgia,936250,12060,"Atlanta-Sandy Springs-Marietta, GA", Gwinnett County ,
+13143,32,Haralson,2020-05-10,Georgia,29792,12060,"Atlanta-Sandy Springs-Marietta, GA", Haralson County ,
+13149,14,Heard,2020-05-10,Georgia,11923,12060,"Atlanta-Sandy Springs-Marietta, GA", Heard County ,
+13151,604,Henry,2020-05-10,Georgia,234561,12060,"Atlanta-Sandy Springs-Marietta, GA", Henry County ,
+13159,25,Jasper,2020-05-10,Georgia,14219,12060,"Atlanta-Sandy Springs-Marietta, GA", Jasper County ,
+13171,40,Lamar,2020-05-10,Georgia,19077,12060,"Atlanta-Sandy Springs-Marietta, GA", Lamar County ,
+13189,51,McDuffie,2020-05-10,Georgia,21312,12260,"Augusta-Richmond County, GA-SC", McDuffie County ,0600
+13199,65,Meriwether,2020-05-10,Georgia,21167,12060,"Atlanta-Sandy Springs-Marietta, GA", Meriwether County ,
+13217,258,Newton,2020-05-10,Georgia,111744,12060,"Atlanta-Sandy Springs-Marietta, GA", Newton County ,
+13223,223,Paulding,2020-05-10,Georgia,168667,12060,"Atlanta-Sandy Springs-Marietta, GA", Paulding County ,
+13227,33,Pickens,2020-05-10,Georgia,32591,12060,"Atlanta-Sandy Springs-Marietta, GA", Pickens County ,
+13231,44,Pike,2020-05-10,Georgia,18962,12060,"Atlanta-Sandy Springs-Marietta, GA", Pike County ,
+13245,447,Richmond,2020-05-10,Georgia,202518,12260,"Augusta-Richmond County, GA-SC", Richmond County ,0600
+13247,239,Rockdale,2020-05-10,Georgia,90896,12060,"Atlanta-Sandy Springs-Marietta, GA", Rockdale County ,
+13255,235,Spalding,2020-05-10,Georgia,66703,12060,"Atlanta-Sandy Springs-Marietta, GA", Spalding County ,
+13295,65,Walker,2020-05-10,Georgia,69761,16860,"Chattanooga, TN-GA", Walker County ,1560
+13297,152,Walton,2020-05-10,Georgia,94593,12060,"Atlanta-Sandy Springs-Marietta, GA", Walton County ,
+15003,408,Honolulu,2020-05-10,Hawaii,974563,26180,"Honolulu, HI",Honolulu County ,3320
+17005,8,Bond,2020-05-10,Illinois,16426,41180,"St. Louis, MO-IL",Bond County ,7040
+17007,193,Boone,2020-05-10,Illinois,53544,40420,"Rockford, IL",Boone County ,6880
+17013,1,Calhoun,2020-05-10,Illinois,4739,41180,"St. Louis, MO-IL", Calhoun County ,7040
+17027,126,Clinton,2020-05-10,Illinois,37562,41180,"St. Louis, MO-IL", Clinton County ,7040
+17031,52655,Cook,2020-05-10,Illinois,5150233,16980,"Chicago-Joliet-Naperville, IL-IN-WI",Cook County ,
+17037,177,DeKalb,2020-05-10,Illinois,104897,16980,"Chicago-Joliet-Naperville, IL-IN-WI", DeKalb County ,
+17043,4603,DuPage,2020-05-10,Illinois,922921,16980,"Chicago-Joliet-Naperville, IL-IN-WI", DuPage County ,
+17063,58,Grundy,2020-05-10,Illinois,51054,16980,"Chicago-Joliet-Naperville, IL-IN-WI", Grundy County ,
+17073,58,Henry,2020-05-10,Illinois,48913,19340,"Davenport-Moline-Rock Island, IA-IL",Henry County ,1960
+17083,17,Jersey,2020-05-10,Illinois,21773,41180,"St. Louis, MO-IL", Jersey County ,7040
+17089,3003,Kane,2020-05-10,Illinois,532403,16980,"Chicago-Joliet-Naperville, IL-IN-WI", Kane County ,
+17093,421,Kendall,2020-05-10,Illinois,128990,16980,"Chicago-Joliet-Naperville, IL-IN-WI", Kendall County ,
+17097,5245,Lake,2020-05-10,Illinois,696535,16980,"Chicago-Joliet-Naperville, IL-IN-WI", Lake County ,
+17111,945,McHenry,2020-05-10,Illinois,307774,16980,"Chicago-Joliet-Naperville, IL-IN-WI", McHenry County ,
+17117,38,Macoupin,2020-05-10,Illinois,44926,41180,"St. Louis, MO-IL", Macoupin County ,7040
+17119,427,Madison,2020-05-10,Illinois,262966,41180,"St. Louis, MO-IL", Madison County ,7040
+17123,4,Marshall,2020-05-10,Illinois,11438,37900,"Peoria, IL",Marshall County ,6120
+17131,12,Mercer,2020-05-10,Illinois,15437,19340,"Davenport-Moline-Rock Island, IA-IL", Mercer County ,1960
+17133,79,Monroe,2020-05-10,Illinois,34637,41180,"St. Louis, MO-IL", Monroe County ,7040
+17143,139,Peoria,2020-05-10,Illinois,179179,37900,"Peoria, IL", Peoria County ,6120
+17161,515,Rock Island,2020-05-10,Illinois,141879,19340,"Davenport-Moline-Rock Island, IA-IL", Rock Island County ,1960
+17163,711,St. Clair,2020-05-10,Illinois,259686,41180,"St. Louis, MO-IL", St. Clair County ,7040
+17175,1,Stark,2020-05-10,Illinois,5342,37900,"Peoria, IL", Stark County ,6120
+17179,59,Tazewell,2020-05-10,Illinois,131803,37900,"Peoria, IL", Tazewell County ,6120
+17197,3684,Will,2020-05-10,Illinois,690743,16980,"Chicago-Joliet-Naperville, IL-IN-WI", Will County ,
+17201,917,Winnebago,2020-05-10,Illinois,282572,40420,"Rockford, IL", Winnebago County ,6880
+17203,15,Woodford,2020-05-10,Illinois,38459,37900,"Peoria, IL", Woodford County ,6120
+18003,821,Allen,2020-05-10,Indiana,379299,23060,"Fort Wayne, IN",Allen County ,2760
+18011,237,Boone,2020-05-10,Indiana,67843,26900,"Indianapolis-Carmel, IN",Boone County ,3480
+18013,26,Brown,2020-05-10,Indiana,15092,26900,"Indianapolis-Carmel, IN", Brown County ,3480
+18019,382,Clark,2020-05-10,Indiana,118302,31140,"Louisville, KY-IN",Clark County ,4520
+18029,150,Dearborn,2020-05-10,Indiana,49458,17140,"Cincinnati-Middletown, OH-KY-IN",Dearborn County ,
+18043,233,Floyd,2020-05-10,Indiana,78522,31140,"Louisville, KY-IN", Floyd County ,4520
+18047,107,Franklin,2020-05-10,Indiana,22758,17140,"Cincinnati-Middletown, OH-KY-IN", Franklin County ,
+18051,8,Gibson,2020-05-10,Indiana,33659,21780,"Evansville, IN-KY",Gibson County ,2440
+18057,935,Hamilton,2020-05-10,Indiana,338011,26900,"Indianapolis-Carmel, IN", Hamilton County ,3480
+18059,266,Hancock,2020-05-10,Indiana,78168,26900,"Indianapolis-Carmel, IN", Hancock County ,3480
+18061,158,Harrison,2020-05-10,Indiana,40515,31140,"Louisville, KY-IN", Harrison County ,4520
+18063,976,Hendricks,2020-05-10,Indiana,170311,26900,"Indianapolis-Carmel, IN", Hendricks County ,3480
+18073,40,Jasper,2020-05-10,Indiana,33562,16980,"Chicago-Joliet-Naperville, IL-IN-WI", Jasper County ,
+18081,822,Johnson,2020-05-10,Indiana,158167,26900,"Indianapolis-Carmel, IN", Johnson County ,3480
+18089,2469,Lake,2020-05-10,Indiana,485493,16980,"Chicago-Joliet-Naperville, IL-IN-WI", Lake County ,
+18097,7405,Marion,2020-05-10,Indiana,964582,26900,"Indianapolis-Carmel, IN", Marion County ,3480
+18109,200,Morgan,2020-05-10,Indiana,70489,26900,"Indianapolis-Carmel, IN", Morgan County ,3480
+18111,66,Newton,2020-05-10,Indiana,13984,16980,"Chicago-Joliet-Naperville, IL-IN-WI", Newton County ,
+18115,9,Ohio,2020-05-10,Indiana,5875,17140,"Cincinnati-Middletown, OH-KY-IN", Ohio County ,
+18127,320,Porter,2020-05-10,Indiana,170389,16980,"Chicago-Joliet-Naperville, IL-IN-WI", Porter County ,
+18129,15,Posey,2020-05-10,Indiana,25427,21780,"Evansville, IN-KY", Posey County ,2440
+18133,89,Putnam,2020-05-10,Indiana,37576,26900,"Indianapolis-Carmel, IN", Putnam County ,3480
+18145,325,Shelby,2020-05-10,Indiana,44729,26900,"Indianapolis-Carmel, IN", Shelby County ,3480
+18163,185,Vanderburgh,2020-05-10,Indiana,181451,21780,"Evansville, IN-KY", Vanderburgh County ,2440
+18173,123,Warrick,2020-05-10,Indiana,62998,21780,"Evansville, IN-KY", Warrick County ,2440
+18175,48,Washington,2020-05-10,Indiana,28036,31140,"Louisville, KY-IN", Washington County ,4520
+18179,10,Wells,2020-05-10,Indiana,28296,23060,"Fort Wayne, IN", Wells County ,2760
+18183,22,Whitley,2020-05-10,Indiana,33964,23060,"Fort Wayne, IN", Whitley County ,2760
+19049,676,Dallas,2020-05-10,Iowa,93453,19780,"Des Moines-West Des Moines, IA",Dallas County ,2120
+19077,33,Guthrie,2020-05-10,Iowa,10689,19780,"Des Moines-West Des Moines, IA", Guthrie County ,2120
+19085,17,Harrison,2020-05-10,Iowa,14049,36540,"Omaha-Council Bluffs, NE-IA",Harrison County ,5920
+19121,11,Madison,2020-05-10,Iowa,16338,19780,"Des Moines-West Des Moines, IA", Madison County ,2120
+19129,8,Mills,2020-05-10,Iowa,15109,36540,"Omaha-Council Bluffs, NE-IA", Mills County ,5920
+19153,2238,Polk,2020-05-10,Iowa,490161,19780,"Des Moines-West Des Moines, IA", Polk County ,2120
+19155,85,Pottawattamie,2020-05-10,Iowa,93206,36540,"Omaha-Council Bluffs, NE-IA", Pottawattamie County ,5920
+19163,280,Scott,2020-05-10,Iowa,172943,19340,"Davenport-Moline-Rock Island, IA-IL", Scott County ,1960
+19181,42,Warren,2020-05-10,Iowa,51466,19780,"Des Moines-West Des Moines, IA", Warren County ,2120
+20015,17,Butler,2020-05-10,Kansas,66911,48620,"Wichita, KS",Butler County ,9040
+20059,23,Franklin,2020-05-10,Kansas,25544,28140,"Kansas City, MO-KS",Franklin County ,
+20079,10,Harvey,2020-05-10,Kansas,34429,48620,"Wichita, KS", Harvey County ,9040
+20091,598,Johnson,2020-05-10,Kansas,602401,28140,"Kansas City, MO-KS", Johnson County ,
+20103,920,Leavenworth,2020-05-10,Kansas,81758,28140,"Kansas City, MO-KS", Leavenworth County ,
+20107,6,Linn,2020-05-10,Kansas,9703,28140,"Kansas City, MO-KS", Linn County ,
+20121,6,Miami,2020-05-10,Kansas,34237,28140,"Kansas City, MO-KS", Miami County ,
+20173,468,Sedgwick,2020-05-10,Kansas,516042,48620,"Wichita, KS", Sedgwick County ,9040
+20191,4,Sumner,2020-05-10,Kansas,22836,48620,"Wichita, KS", Sumner County ,9040
+20209,1110,Wyandotte,2020-05-10,Kansas,165429,28140,"Kansas City, MO-KS", Wyandotte County ,
+21015,218,Boone,2020-05-10,Kentucky,133581,17140,"Cincinnati-Middletown, OH-KY-IN", Boone County ,
+21017,8,Bourbon,2020-05-10,Kentucky,19788,30460,"Lexington-Fayette, KY",Bourbon County ,4280
+21023,9,Bracken,2020-05-10,Kentucky,8303,17140,"Cincinnati-Middletown, OH-KY-IN", Bracken County ,
+21029,82,Bullitt,2020-05-10,Kentucky,81676,31140,"Louisville, KY-IN", Bullitt County ,4520
+21037,115,Campbell,2020-05-10,Kentucky,93584,17140,"Cincinnati-Middletown, OH-KY-IN", Campbell County ,
+21049,20,Clark,2020-05-10,Kentucky,36263,30460,"Lexington-Fayette, KY", Clark County ,4280
+21067,389,Fayette,2020-05-10,Kentucky,323152,30460,"Lexington-Fayette, KY", Fayette County ,4280
+21077,1,Gallatin,2020-05-10,Kentucky,8869,17140,"Cincinnati-Middletown, OH-KY-IN", Gallatin County ,
+21081,30,Grant,2020-05-10,Kentucky,25069,17140,"Cincinnati-Middletown, OH-KY-IN", Grant County ,
+21101,82,Henderson,2020-05-10,Kentucky,45210,21780,"Evansville, IN-KY", Henderson County ,2440
+21103,9,Henry,2020-05-10,Kentucky,16126,31140,"Louisville, KY-IN", Henry County ,4520
+21111,1642,Jefferson,2020-05-10,Kentucky,766757,31140,"Louisville, KY-IN", Jefferson County ,4520
+21113,46,Jessamine,2020-05-10,Kentucky,54115,30460,"Lexington-Fayette, KY", Jessamine County ,4280
+21117,383,Kenton,2020-05-10,Kentucky,166998,17140,"Cincinnati-Middletown, OH-KY-IN", Kenton County ,
+21163,18,Meade,2020-05-10,Kentucky,28572,31140,"Louisville, KY-IN", Meade County ,4520
+21179,30,Nelson,2020-05-10,Kentucky,46233,31140,"Louisville, KY-IN", Nelson County ,4520
+21185,38,Oldham,2020-05-10,Kentucky,66799,31140,"Louisville, KY-IN", Oldham County ,4520
+21191,5,Pendleton,2020-05-10,Kentucky,14590,17140,"Cincinnati-Middletown, OH-KY-IN", Pendleton County ,
+21209,32,Scott,2020-05-10,Kentucky,57004,30460,"Lexington-Fayette, KY", Scott County ,4280
+21211,49,Shelby,2020-05-10,Kentucky,49024,31140,"Louisville, KY-IN", Shelby County ,4520
+21215,16,Spencer,2020-05-10,Kentucky,19351,31140,"Louisville, KY-IN", Spencer County ,4520
+21223,3,Trimble,2020-05-10,Kentucky,8471,31140,"Louisville, KY-IN", Trimble County ,4520
+21233,31,Webster,2020-05-10,Kentucky,12942,21780,"Evansville, IN-KY", Webster County ,2440
+21239,17,Woodford,2020-05-10,Kentucky,26734,30460,"Lexington-Fayette, KY", Woodford County ,4280
+22005,694,Ascension,2020-05-10,Louisiana,126604,12940,"Baton Rouge, LA",Ascension Parish ,0760
+22015,310,Bossier,2020-05-10,Louisiana,127039,43340,"Shreveport-Bossier City, LA",Bossier Parish ,7680
+22017,1751,Caddo,2020-05-10,Louisiana,240204,43340,"Shreveport-Bossier City, LA", Caddo Parish ,7680
+22031,214,De Soto,2020-05-10,Louisiana,27463,43340,"Shreveport-Bossier City, LA", De Soto Parish ,7680
+22033,2374,East Baton Rouge,2020-05-10,Louisiana,440059,12940,"Baton Rouge, LA", East Baton Rouge Parish ,0760
+22037,135,East Feliciana,2020-05-10,Louisiana,19135,12940,"Baton Rouge, LA", East Feliciana Parish ,0760
+22047,499,Iberville,2020-05-10,Louisiana,32511,12940,"Baton Rouge, LA", Iberville Parish ,0760
+22051,6709,Jefferson,2020-05-10,Louisiana,432493,35380,"New Orleans-Metairie-Kenner, LA",Jefferson Parish ,
+22063,278,Livingston,2020-05-10,Louisiana,140789,12940,"Baton Rouge, LA", Livingston Parish ,0760
+22071,6682,Orleans,2020-05-10,Louisiana,390144,35380,"New Orleans-Metairie-Kenner, LA", Orleans Parish ,
+22075,190,Plaquemines,2020-05-10,Louisiana,23197,35380,"New Orleans-Metairie-Kenner, LA", Plaquemines Parish ,
+22077,126,Pointe Coupee,2020-05-10,Louisiana,21730,12940,"Baton Rouge, LA", Pointe Coupee Parish ,0760
+22087,513,St. Bernard,2020-05-10,Louisiana,47244,35380,"New Orleans-Metairie-Kenner, LA", St. Bernard Parish ,
+22089,594,St. Charles,2020-05-10,Louisiana,53100,35380,"New Orleans-Metairie-Kenner, LA", St. Charles Parish ,
+22091,35,St. Helena,2020-05-10,Louisiana,10132,12940,"Baton Rouge, LA", St. Helena Parish ,0760
+22095,801,St. John the Baptist,2020-05-10,Louisiana,42837,35380,"New Orleans-Metairie-Kenner, LA", St. John the Baptist Parish ,
+22103,1452,St. Tammany,2020-05-10,Louisiana,260419,35380,"New Orleans-Metairie-Kenner, LA", St. Tammany Parish ,
+22121,123,West Baton Rouge,2020-05-10,Louisiana,26465,12940,"Baton Rouge, LA", West Baton Rouge Parish ,0760
+22125,184,West Feliciana,2020-05-10,Louisiana,15568,12940,"Baton Rouge, LA", West Feliciana Parish ,0760
+24003,2472,Anne Arundel,2020-05-10,Maryland,579234,12580,"Baltimore-Towson, MD",Anne Arundel County ,
+24005,3878,Baltimore,2020-05-10,Maryland,827370,12580,"Baltimore-Towson, MD", Baltimore County ,
+24009,207,Calvert,2020-05-10,Maryland,92525,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Calvert County ,
+24013,560,Carroll,2020-05-10,Maryland,168447,12580,"Baltimore-Towson, MD", Carroll County ,
+24015,242,Cecil,2020-05-10,Maryland,102855,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD", Cecil County ,
+24017,749,Charles,2020-05-10,Maryland,163257,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Charles County ,
+24021,1257,Frederick,2020-05-10,Maryland,259547,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Frederick County ,
+24025,609,Harford,2020-05-10,Maryland,255441,12580,"Baltimore-Towson, MD", Harford County ,
+24027,1206,Howard,2020-05-10,Maryland,325690,12580,"Baltimore-Towson, MD", Howard County ,
+24031,6796,Montgomery,2020-05-10,Maryland,1050688,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Montgomery County ,
+24033,9512,Prince George's,2020-05-10,Maryland,909327,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Prince George's County ,
+24035,80,Queen Anne's,2020-05-10,Maryland,50381,12580,"Baltimore-Towson, MD", Queen Anne's County ,
+24510,3326,Baltimore city,2020-05-10,Maryland,593490,12580,"Baltimore-Towson, MD", Baltimore city ,
+25005,4931,Bristol,2020-05-10,Massachusetts,565217,39300,"Providence-New Bedford-Fall River, RI-MA",Bristol County ,6480
+25009,11353,Essex,2020-05-10,Massachusetts,789034,14460,"Boston-Cambridge-Quincy, MA-NH",Essex County ,
+25011,294,Franklin,2020-05-10,Massachusetts,70180,44140,"Springfield, MA",Franklin County ,8000
+25013,4714,Hampden,2020-05-10,Massachusetts,466372,44140,"Springfield, MA", Hampden County ,8000
+25015,676,Hampshire,2020-05-10,Massachusetts,160830,44140,"Springfield, MA", Hampshire County ,8000
+25017,17589,Middlesex,2020-05-10,Massachusetts,1611699,14460,"Boston-Cambridge-Quincy, MA-NH", Middlesex County ,
+25021,6952,Norfolk,2020-05-10,Massachusetts,706775,14460,"Boston-Cambridge-Quincy, MA-NH", Norfolk County ,
+25023,6382,Plymouth,2020-05-10,Massachusetts,521202,14460,"Boston-Cambridge-Quincy, MA-NH", Plymouth County ,
+25025,15279,Suffolk,2020-05-10,Massachusetts,803907,14460,"Boston-Cambridge-Quincy, MA-NH", Suffolk County ,
+26015,48,Barry,2020-05-10,Michigan,61550,24340,"Grand Rapids-Wyoming, MI",Barry County ,3000
+26037,126,Clinton,2020-05-10,Michigan,79595,29620,"Lansing-East Lansing, MI",Clinton County ,4040
+26045,150,Eaton,2020-05-10,Michigan,110268,29620,"Lansing-East Lansing, MI", Eaton County ,4040
+26049,1758,Genesee,2020-05-10,Michigan,405813,22420,"Flint, MI",Genesee County ,2640
+26065,579,Ingham,2020-05-10,Michigan,292406,29620,"Lansing-East Lansing, MI", Ingham County ,4040
+26067,108,Ionia,2020-05-10,Michigan,64697,24340,"Grand Rapids-Wyoming, MI", Ionia County ,3000
+26081,2281,Kent,2020-05-10,Michigan,656955,24340,"Grand Rapids-Wyoming, MI", Kent County ,3000
+26087,176,Lapeer,2020-05-10,Michigan,87607,19820,"Detroit-Warren-Livonia, MI",Lapeer County ,
+26093,376,Livingston,2020-05-10,Michigan,191995,19820,"Detroit-Warren-Livonia, MI", Livingston County ,
+26099,6042,Macomb,2020-05-10,Michigan,873972,19820,"Detroit-Warren-Livonia, MI", Macomb County ,
+26123,34,Newaygo,2020-05-10,Michigan,48980,24340,"Grand Rapids-Wyoming, MI", Newaygo County ,3000
+26125,7736,Oakland,2020-05-10,Michigan,1257584,19820,"Detroit-Warren-Livonia, MI", Oakland County ,
+26147,357,St. Clair,2020-05-10,Michigan,159128,19820,"Detroit-Warren-Livonia, MI", St. Clair County ,
+26163,18075,Wayne,2020-05-10,Michigan,1749343,19820,"Detroit-Warren-Livonia, MI", Wayne County ,
+27003,549,Anoka,2020-05-10,Minnesota,356921,33460,"Minneapolis-St. Paul-Bloomington, MN-WI",Anoka County ,
+27017,64,Carlton,2020-05-10,Minnesota,35871,20260,"Duluth, MN-WI",Carlton County ,2240
+27019,82,Carver,2020-05-10,Minnesota,105089,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", Carver County ,
+27025,20,Chisago,2020-05-10,Minnesota,56579,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", Chisago County ,
+27037,430,Dakota,2020-05-10,Minnesota,429021,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", Dakota County ,
+27053,3558,Hennepin,2020-05-10,Minnesota,1265843,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", Hennepin County ,
+27059,7,Isanti,2020-05-10,Minnesota,40596,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", Isanti County ,
+27123,920,Ramsey,2020-05-10,Minnesota,550321,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", Ramsey County ,
+27137,92,St. Louis,2020-05-10,Minnesota,199070,20260,"Duluth, MN-WI", St. Louis County ,2240
+27139,140,Scott,2020-05-10,Minnesota,149013,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", Scott County ,
+27141,109,Sherburne,2020-05-10,Minnesota,97238,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", Sherburne County ,
+27163,247,Washington,2020-05-10,Minnesota,262440,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", Washington County ,
+27171,102,Wright,2020-05-10,Minnesota,138377,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", Wright County ,
+28029,162,Copiah,2020-05-10,Mississippi,28065,27140,"Jackson, MS",Copiah County ,3560
+28033,331,DeSoto,2020-05-10,Mississippi,184945,32820,"Memphis, TN-MS-AR", DeSoto County ,
+28049,670,Hinds,2020-05-10,Mississippi,231840,27140,"Jackson, MS", Hinds County ,3560
+28089,431,Madison,2020-05-10,Mississippi,106272,27140,"Jackson, MS", Madison County ,3560
+28093,55,Marshall,2020-05-10,Mississippi,35294,32820,"Memphis, TN-MS-AR", Marshall County ,
+28121,250,Rankin,2020-05-10,Mississippi,155271,27140,"Jackson, MS", Rankin County ,3560
+28127,61,Simpson,2020-05-10,Mississippi,26658,27140,"Jackson, MS", Simpson County ,3560
+28137,50,Tate,2020-05-10,Mississippi,28321,32820,"Memphis, TN-MS-AR", Tate County ,
+28143,38,Tunica,2020-05-10,Mississippi,9632,32820,"Memphis, TN-MS-AR", Tunica County ,
+29013,6,Bates,2020-05-10,Missouri,16172,28140,"Kansas City, MO-KS", Bates County ,
+29025,3,Caldwell,2020-05-10,Missouri,9020,28140,"Kansas City, MO-KS", Caldwell County ,
+29037,70,Cass,2020-05-10,Missouri,105780,28140,"Kansas City, MO-KS", Cass County ,
+29047,96,Clay,2020-05-10,Missouri,249948,28140,"Kansas City, MO-KS", Clay County ,
+29049,14,Clinton,2020-05-10,Missouri,20387,28140,"Kansas City, MO-KS", Clinton County ,
+29071,128,Franklin,2020-05-10,Missouri,103967,41180,"St. Louis, MO-IL", Franklin County ,7040
+29095,398,Jackson,2020-05-10,Missouri,703011,28140,"Kansas City, MO-KS", Jackson County ,
+29099,292,Jefferson,2020-05-10,Missouri,225081,41180,"St. Louis, MO-IL", Jefferson County ,7040
+29107,62,Lafayette,2020-05-10,Missouri,32708,28140,"Kansas City, MO-KS", Lafayette County ,
+29113,76,Lincoln,2020-05-10,Missouri,59013,41180,"St. Louis, MO-IL", Lincoln County ,7040
+29165,41,Platte,2020-05-10,Missouri,104418,28140,"Kansas City, MO-KS", Platte County ,
+29177,12,Ray,2020-05-10,Missouri,23018,28140,"Kansas City, MO-KS", Ray County ,
+29183,670,St. Charles,2020-05-10,Missouri,402022,41180,"St. Louis, MO-IL", St. Charles County ,7040
+29189,3804,St. Louis,2020-05-10,Missouri,994205,41180,"St. Louis, MO-IL", St. Louis County ,7040
+29219,24,Warren,2020-05-10,Missouri,35649,41180,"St. Louis, MO-IL", Warren County ,7040
+29221,9,Washington,2020-05-10,Missouri,24730,41180,"St. Louis, MO-IL", Washington County ,7040
+29510,1513,St. Louis city,2020-05-10,Missouri,300576,41180,"St. Louis, MO-IL", St. Louis city ,7040
+31025,11,Cass,2020-05-10,Nebraska,26248,36540,"Omaha-Council Bluffs, NE-IA", Cass County ,5920
+31055,1610,Douglas,2020-05-10,Nebraska,571327,36540,"Omaha-Council Bluffs, NE-IA", Douglas County ,5920
+31153,236,Sarpy,2020-05-10,Nebraska,187196,36540,"Omaha-Council Bluffs, NE-IA", Sarpy County ,5920
+31155,11,Saunders,2020-05-10,Nebraska,21578,36540,"Omaha-Council Bluffs, NE-IA", Saunders County ,5920
+31177,23,Washington,2020-05-10,Nebraska,20729,36540,"Omaha-Council Bluffs, NE-IA", Washington County ,5920
+32003,4750,Clark,2020-05-10,Nevada,2266715,29820,"Las Vegas-Paradise, NV",Clark County ,
+33015,978,Rockingham,2020-05-10,New Hampshire,309769,14460,"Boston-Cambridge-Quincy, MA-NH", Rockingham County ,
+33017,192,Strafford,2020-05-10,New Hampshire,130633,14460,"Boston-Cambridge-Quincy, MA-NH", Strafford County ,
+34005,3574,Burlington,2020-05-10,New Jersey,445349,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD", Burlington County ,
+34001,1510,Atlantic,2020-05-10,New Jersey,263670,12100,"Atlantic City-Hammonton, NJ",Atlantic County ,0560
+34003,16929,Bergen,2020-05-10,New Jersey,932202,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA",Bergen County ,
+34007,4870,Camden,2020-05-10,New Jersey,506471,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD", Camden County ,
+34019,714,Hunterdon,2020-05-10,New Jersey,124371,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Hunterdon County ,
+34013,15524,Essex,2020-05-10,New Jersey,798975,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Essex County ,
+34015,1654,Gloucester,2020-05-10,New Jersey,291636,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD", Gloucester County ,
+34017,16822,Hudson,2020-05-10,New Jersey,672391,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Hudson County ,
+34021,5317,Mercer,2020-05-10,New Jersey,367430,45940,"Trenton-Ewing, NJ",Mercer County ,8480
+34023,13937,Middlesex,2020-05-10,New Jersey,825062,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Middlesex County ,
+34025,6894,Monmouth,2020-05-10,New Jersey,618795,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Monmouth County ,
+34027,5854,Morris,2020-05-10,New Jersey,491845,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Morris County ,
+34029,7462,Ocean,2020-05-10,New Jersey,607186,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Ocean County ,
+34031,14543,Passaic,2020-05-10,New Jersey,501826,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Passaic County ,
+34033,411,Salem,2020-05-10,New Jersey,62385,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD", Salem County ,
+34035,4054,Somerset,2020-05-10,New Jersey,328934,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Somerset County ,
+34037,1026,Sussex,2020-05-10,New Jersey,140488,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Sussex County ,
+34039,14057,Union,2020-05-10,New Jersey,556341,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Union County ,
+34041,1044,Warren,2020-05-10,New Jersey,105267,10900,"Allentown-Bethlehem-Easton, PA-NJ",Warren County ,0240
+35001,1073,Bernalillo,2020-05-10,New Mexico,679121,10740,"Albuquerque, NM",Bernalillo County ,0200
+35043,458,Sandoval,2020-05-10,New Mexico,146748,10740,"Albuquerque, NM", Sandoval County ,0200
+35057,18,Torrance,2020-05-10,New Mexico,15461,10740,"Albuquerque, NM", Torrance County ,0200
+35061,55,Valencia,2020-05-10,New Mexico,76688,10740,"Albuquerque, NM", Valencia County ,0200
+36001,1432,Albany,2020-05-10,New York,305506,10580,"Albany-Schenectady-Troy, NY",Albany County ,0160
+36043,79,Herkimer,2020-05-10,New York,61319,46540,"Utica-Rome, NY",Herkimer County ,8680
+36051,102,Livingston,2020-05-10,New York,62914,40380,"Rochester, NY",Livingston County ,
+36053,251,Madison,2020-05-10,New York,70941,45060,"Syracuse, NY",Madison County ,8160
+36055,1822,Monroe,2020-05-10,New York,741770,40380,"Rochester, NY", Monroe County ,
+36059,38217,Nassau,2020-05-10,New York,1356924,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Nassau County ,
+36061,189656,New York City,2020-05-10,New York,1628706,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", New York County ,
+36065,660,Oneida,2020-05-10,New York,228671,46540,"Utica-Rome, NY", Oneida County ,8680
+36067,1265,Onondaga,2020-05-10,New York,460528,45060,"Syracuse, NY", Onondaga County ,8160
+36069,106,Ontario,2020-05-10,New York,109777,40380,"Rochester, NY", Ontario County ,
+36073,126,Orleans,2020-05-10,New York,40352,40380,"Rochester, NY", Orleans County ,
+36075,75,Oswego,2020-05-10,New York,117124,45060,"Syracuse, NY", Oswego County ,8160
+36079,1089,Putnam,2020-05-10,New York,98320,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Putnam County ,
+36083,409,Rensselaer,2020-05-10,New York,158714,10580,"Albany-Schenectady-Troy, NY", Rensselaer County ,0160
+36087,12451,Rockland,2020-05-10,New York,325789,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Rockland County ,
+36091,402,Saratoga,2020-05-10,New York,229863,10580,"Albany-Schenectady-Troy, NY", Saratoga County ,0160
+36093,571,Schenectady,2020-05-10,New York,155299,10580,"Albany-Schenectady-Troy, NY", Schenectady County ,0160
+36095,46,Schoharie,2020-05-10,New York,30999,10580,"Albany-Schenectady-Troy, NY", Schoharie County ,0160
+36103,36702,Suffolk,2020-05-10,New York,1476601,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Suffolk County ,
+36117,80,Wayne,2020-05-10,New York,89918,40380,"Rochester, NY", Wayne County ,
+36119,31293,Westchester,2020-05-10,New York,967506,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Westchester County ,
+37001,172,Alamance,2020-05-10,North Carolina,169509,15500,"Burlington, NC",Alamance County ,3120
+37053,9,Currituck,2020-05-10,North Carolina,27763,47260,"Virginia Beach-Norfolk-Newport News, VA-NC",Currituck County ,5720
+37069,111,Franklin,2020-05-10,North Carolina,69685,39580,"Raleigh-Cary, NC",Franklin County ,
+37101,205,Johnston,2020-05-10,North Carolina,209339,39580,"Raleigh-Cary, NC", Johnston County ,
+37183,1030,Wake,2020-05-10,North Carolina,1111761,39580,"Raleigh-Cary, NC", Wake County ,
+39015,17,Brown,2020-05-10,Ohio,43432,17140,"Cincinnati-Middletown, OH-KY-IN", Brown County ,
+39017,452,Butler,2020-05-10,Ohio,383134,17140,"Cincinnati-Middletown, OH-KY-IN", Butler County ,
+39019,23,Carroll,2020-05-10,Ohio,26914,15940,"Canton-Massillon, OH",Carroll County ,1320
+39025,123,Clermont,2020-05-10,Ohio,206428,17140,"Cincinnati-Middletown, OH-KY-IN", Clermont County ,
+39035,2795,Cuyahoga,2020-05-10,Ohio,1235072,17460,"Cleveland-Elyria-Mentor, OH",Cuyahoga County ,
+39041,220,Delaware,2020-05-10,Ohio,209177,18140,"Columbus, OH",Delaware County ,1840
+39045,177,Fairfield,2020-05-10,Ohio,157574,18140,"Columbus, OH", Fairfield County ,1840
+39049,3777,Franklin,2020-05-10,Ohio,1316756,18140,"Columbus, OH", Franklin County ,1840
+39051,31,Fulton,2020-05-10,Ohio,42126,45780,"Toledo, OH",Fulton County ,8400
+39055,189,Geauga,2020-05-10,Ohio,93649,17460,"Cleveland-Elyria-Mentor, OH", Geauga County ,
+39061,1757,Hamilton,2020-05-10,Ohio,817473,17140,"Cincinnati-Middletown, OH-KY-IN", Hamilton County ,
+39085,197,Lake,2020-05-10,Ohio,230149,17460,"Cleveland-Elyria-Mentor, OH", Lake County ,
+39089,162,Licking,2020-05-10,Ohio,176862,18140,"Columbus, OH", Licking County ,1840
+39093,548,Lorain,2020-05-10,Ohio,309833,17460,"Cleveland-Elyria-Mentor, OH", Lorain County ,
+39095,1757,Lucas,2020-05-10,Ohio,428348,45780,"Toledo, OH", Lucas County ,8400
+39097,83,Madison,2020-05-10,Ohio,44731,18140,"Columbus, OH", Madison County ,1840
+39099,1119,Mahoning,2020-05-10,Ohio,228683,49660,"Youngstown-Warren-Boardman, OH-PA",Mahoning County ,9320
+39103,194,Medina,2020-05-10,Ohio,179746,17460,"Cleveland-Elyria-Mentor, OH", Medina County ,
+39117,84,Morrow,2020-05-10,Ohio,35328,18140,"Columbus, OH", Morrow County ,1840
+39123,46,Ottawa,2020-05-10,Ohio,40525,45780,"Toledo, OH", Ottawa County ,8400
+39129,1845,Pickaway,2020-05-10,Ohio,58457,18140,"Columbus, OH", Pickaway County ,1840
+39133,276,Portage,2020-05-10,Ohio,162466,10420,"Akron, OH",Portage County ,0080
+39151,500,Stark,2020-05-10,Ohio,370606,15940,"Canton-Massillon, OH", Stark County ,1320
+39153,892,Summit,2020-05-10,Ohio,541013,10420,"Akron, OH", Summit County ,0080
+39155,406,Trumbull,2020-05-10,Ohio,197974,49660,"Youngstown-Warren-Boardman, OH-PA", Trumbull County ,9320
+39159,28,Union,2020-05-10,Ohio,58988,18140,"Columbus, OH", Union County ,1840
+39165,206,Warren,2020-05-10,Ohio,234602,17140,"Cincinnati-Middletown, OH-KY-IN", Warren County ,
+39173,224,Wood,2020-05-10,Ohio,130817,45780,"Toledo, OH", Wood County ,8400
+40017,111,Canadian,2020-05-10,Oklahoma,148306,36420,"Oklahoma City, OK",Canadian County ,
+40027,456,Cleveland,2020-05-10,Oklahoma,284014,36420,"Oklahoma City, OK", Cleveland County ,
+40037,82,Creek,2020-05-10,Oklahoma,71522,46140,"Tulsa, OK",Creek County ,8560
+40051,45,Grady,2020-05-10,Oklahoma,55834,36420,"Oklahoma City, OK", Grady County ,
+40081,17,Lincoln,2020-05-10,Oklahoma,34877,36420,"Oklahoma City, OK", Lincoln County ,
+40083,18,Logan,2020-05-10,Oklahoma,48011,36420,"Oklahoma City, OK", Logan County ,
+40087,85,McClain,2020-05-10,Oklahoma,40474,36420,"Oklahoma City, OK", McClain County ,
+40109,945,Oklahoma,2020-05-10,Oklahoma,797434,36420,"Oklahoma City, OK", Oklahoma County ,
+40111,16,Okmulgee,2020-05-10,Oklahoma,38465,46140,"Tulsa, OK", Okmulgee County ,8560
+40113,88,Osage,2020-05-10,Oklahoma,46963,46140,"Tulsa, OK", Osage County ,8560
+40117,29,Pawnee,2020-05-10,Oklahoma,16376,46140,"Tulsa, OK", Pawnee County ,8560
+40131,70,Rogers,2020-05-10,Oklahoma,92459,46140,"Tulsa, OK", Rogers County ,8560
+40143,700,Tulsa,2020-05-10,Oklahoma,651552,46140,"Tulsa, OK", Tulsa County ,8560
+40145,129,Wagoner,2020-05-10,Oklahoma,81289,46140,"Tulsa, OK", Wagoner County ,8560
+41005,266,Clackamas,2020-05-10,Oregon,418187,38900,"Portland-Vancouver-Hillsboro, OR-WA",Clackamas County ,
+41009,15,Columbia,2020-05-10,Oregon,52354,38900,"Portland-Vancouver-Hillsboro, OR-WA", Columbia County ,
+41039,60,Lane,2020-05-10,Oregon,382067,21660,"Eugene-Springfield, OR",Lane County ,2400
+41051,885,Multnomah,2020-05-10,Oregon,812855,38900,"Portland-Vancouver-Hillsboro, OR-WA", Multnomah County ,
+41067,573,Washington,2020-05-10,Oregon,601592,38900,"Portland-Vancouver-Hillsboro, OR-WA", Washington County ,
+41071,49,Yamhill,2020-05-10,Oregon,107100,38900,"Portland-Vancouver-Hillsboro, OR-WA", Yamhill County ,
+42003,1503,Allegheny,2020-05-10,Pennsylvania,1216045,38300,"Pittsburgh, PA",Allegheny County ,
+42005,55,Armstrong,2020-05-10,Pennsylvania,64735,38300,"Pittsburgh, PA", Armstrong County ,
+42007,491,Beaver,2020-05-10,Pennsylvania,163929,38300,"Pittsburgh, PA", Beaver County ,
+42017,3966,Bucks,2020-05-10,Pennsylvania,628270,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD", Bucks County ,
+42019,195,Butler,2020-05-10,Pennsylvania,187853,38300,"Pittsburgh, PA", Butler County ,
+42025,198,Carbon,2020-05-10,Pennsylvania,64182,10900,"Allentown-Bethlehem-Easton, PA-NJ", Carbon County ,0240
+42029,1906,Chester,2020-05-10,Pennsylvania,524989,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD", Chester County ,
+42045,5032,Delaware,2020-05-10,Pennsylvania,566747,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD", Delaware County ,
+42049,124,Erie,2020-05-10,Pennsylvania,269728,21500,"Erie, PA",Erie County ,2360
+42051,85,Fayette,2020-05-10,Pennsylvania,129274,38300,"Pittsburgh, PA", Fayette County ,
+42069,1172,Lackawanna,2020-05-10,Pennsylvania,209674,42540,"Scranton--Wilkes-Barre, PA",Lackawanna County ,7560
+42071,2223,Lancaster,2020-05-10,Pennsylvania,545724,29540,"Lancaster, PA",Lancaster County ,4000
+42077,3241,Lehigh,2020-05-10,Pennsylvania,369318,10900,"Allentown-Bethlehem-Easton, PA-NJ", Lehigh County ,0240
+42079,2416,Luzerne,2020-05-10,Pennsylvania,317417,42540,"Scranton--Wilkes-Barre, PA", Luzerne County ,7560
+42085,73,Mercer,2020-05-10,Pennsylvania,109424,49660,"Youngstown-Warren-Boardman, OH-PA", Mercer County ,9320
+42091,5260,Montgomery,2020-05-10,Pennsylvania,830915,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD", Montgomery County ,
+42095,2453,Northampton,2020-05-10,Pennsylvania,305285,10900,"Allentown-Bethlehem-Easton, PA-NJ", Northampton County ,0240
+42101,18211,Philadelphia,2020-05-10,Pennsylvania,1584064,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD", Philadelphia County ,
+42103,432,Pike,2020-05-10,Pennsylvania,55809,35620,"New York-Northern New Jersey-Long Island, NY-NJ-PA", Pike County ,
+42125,124,Washington,2020-05-10,Pennsylvania,206865,38300,"Pittsburgh, PA", Washington County ,
+42129,417,Westmoreland,2020-05-10,Pennsylvania,348899,38300,"Pittsburgh, PA", Westmoreland County ,
+42131,30,Wyoming,2020-05-10,Pennsylvania,26794,42540,"Scranton--Wilkes-Barre, PA", Wyoming County ,7560
+44001,154,Bristol,2020-05-10,Rhode Island,48479,39300,"Providence-New Bedford-Fall River, RI-MA", Bristol County ,6480
+44003,703,Kent,2020-05-10,Rhode Island,164292,39300,"Providence-New Bedford-Fall River, RI-MA", Kent County ,6480
+44005,161,Newport,2020-05-10,Rhode Island,82082,39300,"Providence-New Bedford-Fall River, RI-MA", Newport County ,6480
+44007,7138,Providence,2020-05-10,Rhode Island,638931,39300,"Providence-New Bedford-Fall River, RI-MA", Providence County ,6480
+44009,363,Washington,2020-05-10,Rhode Island,125577,39300,"Providence-New Bedford-Fall River, RI-MA", Washington County ,6480
+45003,118,Aiken,2020-05-10,South Carolina,170872,12260,"Augusta-Richmond County, GA-SC", Aiken County ,0600
+45015,192,Berkeley,2020-05-10,South Carolina,227907,16700,"Charleston-North Charleston-Summerville, SC",Berkeley County ,1440
+45017,8,Calhoun,2020-05-10,South Carolina,14553,17900,"Columbia, SC",Calhoun County ,1760
+45019,481,Charleston,2020-05-10,South Carolina,411406,16700,"Charleston-North Charleston-Summerville, SC", Charleston County ,1440
+45035,106,Dorchester,2020-05-10,South Carolina,162809,16700,"Charleston-North Charleston-Summerville, SC", Dorchester County ,1440
+45037,39,Edgefield,2020-05-10,South Carolina,27260,12260,"Augusta-Richmond County, GA-SC", Edgefield County ,0600
+45039,80,Fairfield,2020-05-10,South Carolina,22347,17900,"Columbia, SC", Fairfield County ,1760
+45045,933,Greenville,2020-05-10,South Carolina,523542,24860,"Greenville-Mauldin-Easley, SC",Greenville County ,3160
+45055,253,Kershaw,2020-05-10,South Carolina,66551,17900,"Columbia, SC", Kershaw County ,1760
+45059,47,Laurens,2020-05-10,South Carolina,67493,24860,"Greenville-Mauldin-Easley, SC", Laurens County ,3160
+45063,478,Lexington,2020-05-10,South Carolina,298750,17900,"Columbia, SC", Lexington County ,1760
+45077,73,Pickens,2020-05-10,South Carolina,126884,24860,"Greenville-Mauldin-Easley, SC", Pickens County ,3160
+45079,1100,Richland,2020-05-10,South Carolina,415759,17900,"Columbia, SC", Richland County ,1760
+45081,87,Saluda,2020-05-10,South Carolina,20473,17900,"Columbia, SC", Saluda County ,1760
+45083,343,Spartanburg,2020-05-10,South Carolina,319785,43900,"Spartanburg, SC",Spartanburg County ,3160
+47001,31,Anderson,2020-05-10,Tennessee,76978,28940,"Knoxville, TN",Anderson County ,3840
+47009,71,Blount,2020-05-10,Tennessee,133088,28940,"Knoxville, TN", Blount County ,3840
+47015,13,Cannon,2020-05-10,Tennessee,14678,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area",Cannon County ,5360
+47019,18,Carter,2020-05-10,Tennessee,56391,27740,"Johnson City, TN",Carter County ,3660
+47021,63,Cheatham,2020-05-10,Tennessee,40667,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Cheatham County ,5360
+47037,3652,Davidson,2020-05-10,Tennessee,694144,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Davidson County ,5360
+47043,86,Dickson,2020-05-10,Tennessee,53948,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Dickson County ,5360
+47047,79,Fayette,2020-05-10,Tennessee,41133,32820,"Memphis, TN-MS-AR", Fayette County ,
+47065,233,Hamilton,2020-05-10,Tennessee,367804,16860,"Chattanooga, TN-GA", Hamilton County ,1560
+47081,52,Hickman,2020-05-10,Tennessee,25178,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Hickman County ,5360
+47093,263,Knox,2020-05-10,Tennessee,470313,28940,"Knoxville, TN", Knox County ,3840
+47105,41,Loudon,2020-05-10,Tennessee,54068,28940,"Knoxville, TN", Loudon County ,3840
+47111,58,Macon,2020-05-10,Tennessee,24602,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Macon County ,5360
+47115,29,Marion,2020-05-10,Tennessee,28907,16860,"Chattanooga, TN-GA", Marion County ,1560
+47147,218,Robertson,2020-05-10,Tennessee,71813,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Robertson County ,5360
+47149,725,Rutherford,2020-05-10,Tennessee,332285,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Rutherford County ,5360
+47153,6,Sequatchie,2020-05-10,Tennessee,15026,16860,"Chattanooga, TN-GA", Sequatchie County ,1560
+47157,3260,Shelby,2020-05-10,Tennessee,937166,32820,"Memphis, TN-MS-AR", Shelby County ,
+47159,24,Smith,2020-05-10,Tennessee,20157,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Smith County ,5360
+47165,698,Sumner,2020-05-10,Tennessee,191283,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Sumner County ,5360
+47167,159,Tipton,2020-05-10,Tennessee,61599,32820,"Memphis, TN-MS-AR", Tipton County ,
+47169,1357,Trousdale,2020-05-10,Tennessee,11284,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Trousdale County ,5360
+47171,3,Unicoi,2020-05-10,Tennessee,17883,27740,"Johnson City, TN", Unicoi County ,3660
+47173,3,Union,2020-05-10,Tennessee,19972,28940,"Knoxville, TN", Union County ,3840
+47179,61,Washington,2020-05-10,Tennessee,129375,27740,"Johnson City, TN", Washington County ,3660
+47187,443,Williamson,2020-05-10,Tennessee,238412,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Williamson County ,5360
+47189,300,Wilson,2020-05-10,Tennessee,144657,34980,"Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area", Wilson County ,5360
+48007,2,Aransas,2020-05-10,Texas,23510,18580,"Corpus Christi, TX",Aransas County ,1880
+48013,22,Atascosa,2020-05-10,Texas,51153,41700,"San Antonio-New Braunfels, TX",Atascosa County ,
+48015,15,Austin,2020-05-10,Texas,30032,26420,"Houston-Sugar Land-Baytown, TX",Austin County ,
+48019,6,Bandera,2020-05-10,Texas,23112,41700,"San Antonio-New Braunfels, TX", Bandera County ,
+48021,109,Bastrop,2020-05-10,Texas,88723,12420,"Austin-Round Rock, TX", Bastrop County ,0640
+48029,1901,Bexar,2020-05-10,Texas,2003554,41700,"San Antonio-New Braunfels, TX", Bexar County ,
+48039,661,Brazoria,2020-05-10,Texas,374264,26420,"Houston-Sugar Land-Baytown, TX", Brazoria County ,
+48055,27,Caldwell,2020-05-10,Texas,43664,12420,"Austin-Round Rock, TX", Caldwell County ,0640
+48071,50,Chambers,2020-05-10,Texas,43837,26420,"Houston-Sugar Land-Baytown, TX", Chambers County ,
+48085,920,Collin,2020-05-10,Texas,1034730,19100,"Dallas-Fort Worth-Arlington, TX",Collin County ,
+48091,65,Comal,2020-05-10,Texas,156209,41700,"San Antonio-New Braunfels, TX", Comal County ,
+48113,5870,Dallas,2020-05-10,Texas,2635516,19100,"Dallas-Fort Worth-Arlington, TX", Dallas County ,
+48119,1,Delta,2020-05-10,Texas,5331,19100,"Dallas-Fort Worth-Arlington, TX", Delta County ,
+48121,922,Denton,2020-05-10,Texas,887207,19100,"Dallas-Fort Worth-Arlington, TX", Denton County ,
+48139,202,Ellis,2020-05-10,Texas,184826,19100,"Dallas-Fort Worth-Arlington, TX", Ellis County ,
+48141,1340,El Paso,2020-05-10,Texas,839238,21340,"El Paso, TX",El Paso County ,2320
+48157,1384,Fort Bend,2020-05-10,Texas,811688,26420,"Houston-Sugar Land-Baytown, TX", Fort Bend County ,
+48167,685,Galveston,2020-05-10,Texas,342139,26420,"Houston-Sugar Land-Baytown, TX", Galveston County ,
+48187,95,Guadalupe,2020-05-10,Texas,166847,41700,"San Antonio-New Braunfels, TX", Guadalupe County ,
+48199,115,Hardin,2020-05-10,Texas,57602,13140,"Beaumont-Port Arthur, TX",Hardin County ,0840
+48201,7878,Harris,2020-05-10,Texas,4713325,26420,"Houston-Sugar Land-Baytown, TX", Harris County ,
+48209,204,Hays,2020-05-10,Texas,230191,12420,"Austin-Round Rock, TX", Hays County ,0640
+48215,389,Hidalgo,2020-05-10,Texas,868707,32580,"McAllen-Edinburg-Mission, TX",Hidalgo County ,4880
+48231,57,Hunt,2020-05-10,Texas,98594,19100,"Dallas-Fort Worth-Arlington, TX", Hunt County ,
+48245,376,Jefferson,2020-05-10,Texas,251565,13140,"Beaumont-Port Arthur, TX", Jefferson County ,0840
+48251,114,Johnson,2020-05-10,Texas,175817,19100,"Dallas-Fort Worth-Arlington, TX", Johnson County ,
+48257,116,Kaufman,2020-05-10,Texas,136154,19100,"Dallas-Fort Worth-Arlington, TX", Kaufman County ,
+48259,19,Kendall,2020-05-10,Texas,47431,41700,"San Antonio-New Braunfels, TX", Kendall County ,
+48291,64,Liberty,2020-05-10,Texas,88219,26420,"Houston-Sugar Land-Baytown, TX", Liberty County ,
+48325,31,Medina,2020-05-10,Texas,51584,41700,"San Antonio-New Braunfels, TX", Medina County ,
+48339,699,Montgomery,2020-05-10,Texas,607391,26420,"Houston-Sugar Land-Baytown, TX", Montgomery County ,
+48355,132,Nueces,2020-05-10,Texas,362294,18580,"Corpus Christi, TX", Nueces County ,1880
+48361,85,Orange,2020-05-10,Texas,83396,13140,"Beaumont-Port Arthur, TX", Orange County ,0840
+48367,45,Parker,2020-05-10,Texas,142878,19100,"Dallas-Fort Worth-Arlington, TX", Parker County ,
+48397,100,Rockwall,2020-05-10,Texas,104915,19100,"Dallas-Fort Worth-Arlington, TX", Rockwall County ,
+48407,11,San Jacinto,2020-05-10,Texas,28859,26420,"Houston-Sugar Land-Baytown, TX", San Jacinto County ,
+48409,20,San Patricio,2020-05-10,Texas,66730,18580,"Corpus Christi, TX", San Patricio County ,1880
+48439,3695,Tarrant,2020-05-10,Texas,2102515,19100,"Dallas-Fort Worth-Arlington, TX", Tarrant County ,
+48453,2127,Travis,2020-05-10,Texas,1273954,12420,"Austin-Round Rock, TX", Travis County ,0640
+48473,38,Waller,2020-05-10,Texas,55246,26420,"Houston-Sugar Land-Baytown, TX", Waller County ,
+48491,377,Williamson,2020-05-10,Texas,590551,12420,"Austin-Round Rock, TX",Williamson County,0640
+48493,35,Wilson,2020-05-10,Texas,51070,41700,"San Antonio-New Braunfels, TX", Wilson County ,
+48497,30,Wise,2020-05-10,Texas,69984,19100,"Dallas-Fort Worth-Arlington, TX", Wise County ,
+49011,336,Davis,2020-05-10,Utah,355481,36260,"Ogden-Clearfield, UT",Davis County ,7160
+49029,10,Morgan,2020-05-10,Utah,12124,36260,"Ogden-Clearfield, UT", Morgan County ,7160
+49035,3291,Salt Lake,2020-05-10,Utah,1160437,41620,"Salt Lake City, UT",Salt Lake County ,7160
+49043,385,Summit,2020-05-10,Utah,42145,41620,"Salt Lake City, UT", Summit County ,7160
+49045,77,Tooele,2020-05-10,Utah,72259,41620,"Salt Lake City, UT", Tooele County ,7160
+49057,179,Weber,2020-05-10,Utah,260213,36260,"Ogden-Clearfield, UT", Weber County ,7160
+51007,17,Amelia,2020-05-10,Virginia,13145,40060,"Richmond, VA",Amelia County ,
+51013,1368,Arlington,2020-05-10,Virginia,236842,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Arlington County ,
+51033,38,Caroline,2020-05-10,Virginia,30725,40060,"Richmond, VA", Caroline County ,
+51036,21,Charles City,2020-05-10,Virginia,6963,40060,"Richmond, VA", Charles City County ,
+51041,787,Chesterfield,2020-05-10,Virginia,352802,40060,"Richmond, VA", Chesterfield County ,
+51043,16,Clarke,2020-05-10,Virginia,14619,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Clarke County ,
+51049,13,Cumberland,2020-05-10,Virginia,9932,40060,"Richmond, VA", Cumberland County ,
+51053,27,Dinwiddie,2020-05-10,Virginia,28544,40060,"Richmond, VA", Dinwiddie County ,
+51059,5892,Fairfax,2020-05-10,Virginia,1147532,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Fairfax County ,
+51061,172,Fauquier,2020-05-10,Virginia,71222,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Fauquier County ,
+51073,27,Gloucester,2020-05-10,Virginia,37348,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Gloucester County ,5720
+51075,81,Goochland,2020-05-10,Virginia,23753,40060,"Richmond, VA", Goochland County ,
+51085,170,Hanover,2020-05-10,Virginia,107766,40060,"Richmond, VA", Hanover County ,
+51087,1067,Henrico,2020-05-10,Virginia,330818,40060,"Richmond, VA", Henrico County ,
+51093,110,Isle of Wight,2020-05-10,Virginia,37109,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Isle of Wight County ,5720
+51095,173,James City,2020-05-10,Virginia,76523,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", James City County ,5720
+51097,5,King and Queen,2020-05-10,Virginia,7025,40060,"Richmond, VA", King and Queen County ,
+51101,11,King William,2020-05-10,Virginia,17148,40060,"Richmond, VA", King William County ,
+51107,1159,Loudoun,2020-05-10,Virginia,413538,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Loudoun County ,
+51109,55,Louisa,2020-05-10,Virginia,37591,40060,"Richmond, VA", Louisa County ,
+51115,5,Mathews,2020-05-10,Virginia,8834,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Mathews County ,5720
+51127,26,New Kent,2020-05-10,Virginia,23091,40060,"Richmond, VA", New Kent County ,
+51145,18,Powhatan,2020-05-10,Virginia,29652,40060,"Richmond, VA", Powhatan County ,
+51149,44,Prince George,2020-05-10,Virginia,38353,40060,"Richmond, VA", Prince George County ,
+51153,2740,Prince William,2020-05-10,Virginia,470335,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Prince William County ,
+51177,248,Spotsylvania,2020-05-10,Virginia,136215,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Spotsylvania County ,
+51179,374,Stafford,2020-05-10,Virginia,152882,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Stafford County ,
+51181,5,Surry,2020-05-10,Virginia,6422,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Surry County ,5720
+51183,33,Sussex,2020-05-10,Virginia,11159,40060,"Richmond, VA", Sussex County ,
+51187,85,Warren,2020-05-10,Virginia,40164,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Warren County ,
+51199,56,York,2020-05-10,Virginia,68280,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", York County ,5720
+51510,1193,Alexandria city,2020-05-10,Virginia,159428,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Alexandria city ,
+51550,328,Chesapeake city,2020-05-10,Virginia,244835,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Chesapeake city ,5720
+51570,66,Colonial Heights city,2020-05-10,Virginia,17370,40060,"Richmond, VA", Colonial Heights city ,
+51600,39,Fairfax city,2020-05-10,Virginia,24019,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Fairfax city ,
+51610,37,Falls Church city,2020-05-10,Virginia,14617,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Falls Church city ,
+51630,61,Fredericksburg city,2020-05-10,Virginia,29036,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Fredericksburg city ,
+51650,144,Hampton city,2020-05-10,Virginia,134510,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Hampton city ,5720
+51670,37,Hopewell city,2020-05-10,Virginia,22529,40060,"Richmond, VA", Hopewell city ,
+51683,381,Manassas city,2020-05-10,Virginia,41085,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Manassas city ,
+51685,120,Manassas Park city,2020-05-10,Virginia,17478,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Manassas Park city ,
+51700,159,Newport News city,2020-05-10,Virginia,179225,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Newport News city ,5720
+51710,304,Norfolk city,2020-05-10,Virginia,242742,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Norfolk city ,5720
+51730,45,Petersburg city,2020-05-10,Virginia,31346,40060,"Richmond, VA", Petersburg city ,
+51735,7,Poquoson city,2020-05-10,Virginia,12271,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Poquoson city ,5720
+51740,202,Portsmouth city,2020-05-10,Virginia,94398,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Portsmouth city ,5720
+51760,530,Richmond city,2020-05-10,Virginia,230436,40060,"Richmond, VA", Richmond city ,
+51800,215,Suffolk city,2020-05-10,Virginia,92108,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Suffolk city ,5720
+51810,491,Virginia Beach city,2020-05-10,Virginia,449974,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Virginia Beach city ,5720
+51830,39,Williamsburg city,2020-05-10,Virginia,14954,47260,"Virginia Beach-Norfolk-Newport News, VA-NC", Williamsburg city ,5720
+53011,375,Clark,2020-05-10,Washington,488241,38900,"Portland-Vancouver-Hillsboro, OR-WA", Clark County ,
+53033,7365,King,2020-05-10,Washington,2252782,42660,"Seattle-Tacoma-Bellevue, WA",King County ,
+53053,1694,Pierce,2020-05-10,Washington,904980,42660,"Seattle-Tacoma-Bellevue, WA", Pierce County ,
+53059,3,Skamania,2020-05-10,Washington,12083,38900,"Portland-Vancouver-Hillsboro, OR-WA", Skamania County ,
+53061,2932,Snohomish,2020-05-10,Washington,822083,42660,"Seattle-Tacoma-Bellevue, WA", Snohomish County ,
+53063,386,Spokane,2020-05-10,Washington,522798,44060,"Spokane, WA",Spokane County ,7840
+54037,88,Jefferson,2020-05-10,West Virginia,57146,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV", Jefferson County ,
+55015,40,Calumet,2020-05-10,Wisconsin,50089,11540,"Appleton, WI",Calumet County ,0460
+55021,32,Columbia,2020-05-10,Wisconsin,57532,31540,"Madison, WI",Columbia County ,4720
+55025,472,Dane,2020-05-10,Wisconsin,546695,31540,"Madison, WI", Dane County ,4720
+55031,11,Douglas,2020-05-10,Wisconsin,43150,20260,"Duluth, MN-WI", Douglas County ,2240
+55049,10,Iowa,2020-05-10,Wisconsin,23678,31540,"Madison, WI", Iowa County ,4720
+55059,682,Kenosha,2020-05-10,Wisconsin,169561,16980,"Chicago-Joliet-Naperville, IL-IN-WI", Kenosha County ,
+55079,3952,Milwaukee,2020-05-10,Wisconsin,945726,33340,"Milwaukee-Waukesha-West Allis, WI",Milwaukee County ,
+55087,112,Outagamie,2020-05-10,Wisconsin,187885,11540,"Appleton, WI", Outagamie County ,0460
+55089,105,Ozaukee,2020-05-10,Wisconsin,89221,33340,"Milwaukee-Waukesha-West Allis, WI", Ozaukee County ,
+55093,12,Pierce,2020-05-10,Wisconsin,42754,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", Pierce County ,
+55109,27,St. Croix,2020-05-10,Wisconsin,90687,33460,"Minneapolis-St. Paul-Bloomington, MN-WI", St. Croix County ,
+55131,117,Washington,2020-05-10,Wisconsin,136034,33340,"Milwaukee-Waukesha-West Allis, WI", Washington County ,
+55133,400,Waukesha,2020-05-10,Wisconsin,404198,33340,"Milwaukee-Waukesha-West Allis, WI", Waukesha County ,
