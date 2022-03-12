@@ -11,9 +11,9 @@ The goal of this analysis is a table with three columns as follows:
 - number of substandard apartment units in that metro area
 - number of covid 19 cases in that metro area
 
-To build that table, we must settle upon a standard geographic unit of measure. Of necessity (because it is the only geographic unit released as part of the 2017 and 2015 AHS dataset), that unit of measure is the Core Based Statistical Area, or CBSA. So we need to compelete this chart by estimating the number of covit cases per CBSA for the 60 such units we will gather from the AHS.
+To build that table, we must settle upon a standard geographic unit of measure. Of necessity (because it is the only geographic unit released as part of the 2017 and 2015 AHS dataset), that unit of measure is the Core Based Statistical Area, or CBSA. So we need to compelete this chart by estimating the number of COVID-19 cases per CBSA for the 60 such units we will gather from the AHS.
 
-We will present that table in a visualization by doing a scatter plot that has as its X axis the substandard housing variable, as the dependent variable, and the number of covid cases on the y axis, as the independent variable. There will be roughly 60 data point corresponding to the 60 CBSAs on which we can find those data. We will add a regression line with uncertainly indentified to assess the relationship between the two variables.
+We will present that table in a visualization by doing a scatter plot that has as its x-axis the substandard housing variable, as the dependent variable, and the number of COVID-19 cases on the y-axis, as the independent variable. There will be roughly 60 data points corresponding to the 60 CBSAs on which we can find those data. We will add a regression line with uncertainly indentified to assess the relationship between the two variables.
 
 For data exploration purposes, prior to creating that visulaization, we will do two heatmaps of the x and y variables just to visualize the geographic prevelence of the two variables.
 
